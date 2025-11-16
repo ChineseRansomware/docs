@@ -18,7 +18,6 @@ Both Engine and Content Maintainers:
 - [PJB3005](https://github.com/PJB3005) - @pjb (97089048065097728)
 - [ShadowCommander](https://github.com/ShadowCommander) - @shadowcommander (104693014407950336)
 - [DrSmugleaf](https://github.com/DrSmugleaf) - @drsmugleaf (109067752286715904)
-- [metalgearsloth](https://github.com/metalgearsloth) - @metalgearsloth (229052932476108800)
 - [Visne](https://github.com/Visne) - @visne (182723474257608705)
 - [keronshb](https://github.com/keronshb) - @keronshb (226429200553213952)
 - [AJCM-git](https://github.com/AJCM-git) - @ajcm_git (239467362380808192)
